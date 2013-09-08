@@ -1,0 +1,4 @@
+[
+  { "method": "get", "url": "https://api.github.com/users/zlw" },
+  { "method": "get", "url": "https://api.github.com/users/koleksiuk"}
+]
